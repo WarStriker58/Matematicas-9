@@ -52,7 +52,7 @@ public class LinearPatrolMovement : MonoBehaviour
         }
         else
         {
-            Debug.LogError("Error: El indice puntoActual está fuera de los limites de los arreglos PatrolPoints o arrivalTimes.");
+            Debug.LogError("El indice puntoActual está fuera de los limites de los arreglos PatrolPoints o arrivalTimes.");
         }
     }
 
@@ -65,7 +65,7 @@ public class LinearPatrolMovement : MonoBehaviour
         }
         else
         {
-            Debug.LogError("Error: CurrentPoint esta fuera de los limites del arreglo ArrivalTimes.");
+            Debug.LogError("CurrentPoint esta fuera de los limites del arreglo ArrivalTimes.");
         }
     }
 }
