@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PatrolLinear : MonoBehaviour
+public class LinearPatrolMovement : MonoBehaviour
 {
     public Transform[] patrolPoints;
     public float[] arrivalTimes;
