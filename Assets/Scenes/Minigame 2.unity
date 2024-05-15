@@ -356,7 +356,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objective: {fileID: 949037053}
-  acceleration: 5
+  acceleration: 1
 --- !u!135 &662827637
 SphereCollider:
   m_ObjectHideFlags: 0
